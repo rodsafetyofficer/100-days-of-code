@@ -26,9 +26,9 @@
 
 ### Day 4: May 20, 2018, Sunday
 
-**Today's Progress**: I'm completing my log in #100dayscodechallenge and continuing myCheatSheet site and I took up a mySQL course in SOLOLEARN
+**Today's Progress**: I'm completing my log in #100dayscodechallenge and continuing myCheatSheet site and I took up a mySQL course in SOLOLEARN. I also watched a video tutorial on how to use github forks.
 
-**Thoughts**: 
+**Thoughts**: I'm not yet that familiar with github so I had to watch videos about forking and 
 
 **Link(s) to work**: 
 
