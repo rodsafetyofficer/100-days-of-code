@@ -1,30 +1,126 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 17, 2018, Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I was able to read an article in freecodecamp about the #100daysofcode challenge and I liked it so I started to commit to the group.
+**Thoughts:** I continued learning C# in my SOLOLEARN account
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** Committed on twitter (https://twitter.com/BonzerrLopez)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: May 18, 2018, Friday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Started working on myCheatSheet Website on CodepEn
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I am still visualizing how I would make this site a place for me to use to look up code and some important tips from tutorials and sites I've been through so that I can go back to it when I need to recall and re-use some of it in my future designs.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: myCheatSheet (https://codepen.io/Roguex/pen/xjmOjR)
 
 
-### Day 1: June 27, Monday
+### Day 3: May 19, 2018, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I was able to finish my C# course in SOLOLEARN.com
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I'm still having a difficult time understanding some of the concepts of C# even though I've finished the course I'm still going to need to go back and re do a lot of the topics so that I can further understand and remember the syntax and how the structure of C# works. 
 
-**Link(s) to work**
+**Link(s) to work**: https://www.sololearn.com/Certificate/1080-7728442/pdf/
+
+### Day 4: May 20, 2018, Sunday
+
+**Today's Progress**: I'm completing my log in #100dayscodechallenge and continuing myCheatSheet site.
+**Thoughts**: 
+**Link(s) to work**: 
+
+### Day 5: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 6: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 7: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 8: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 9: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 10: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 11: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 12: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 13: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 14: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 15: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 16: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 17: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 18: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 19: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 20: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 21: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+### Day 22: 
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**:
+
+
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
