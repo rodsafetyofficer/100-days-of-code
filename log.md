@@ -26,8 +26,10 @@
 
 ### Day 4: May 20, 2018, Sunday
 
-**Today's Progress**: I'm completing my log in #100dayscodechallenge and continuing myCheatSheet site.
+**Today's Progress**: I'm completing my log in #100dayscodechallenge and continuing myCheatSheet site and I took up a mySQL course in SOLOLEARN
+
 **Thoughts**: 
+
 **Link(s) to work**: 
 
 ### Day 5: 
