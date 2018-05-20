@@ -26,11 +26,11 @@
 
 ### Day 4: May 20, 2018, Sunday
 
-**Today's Progress**: I'm completing my log in #100dayscodechallenge and continuing myCheatSheet site and I took up a mySQL course in SOLOLEARN. I also watched a video tutorial on how to use github forks.
+**Today's Progress**: I'm completing my log in #100dayscodechallenge and continuing myCheatSheet site and I took up a mySQL course in SOLOLEARN. I also watched a video tutorial on how to use github forks. I'm currently trying to understand the script of a login form and created a pen in codepen to try it out. 
 
-**Thoughts**: I'm not yet that familiar with github so I had to watch videos about forking and 
+**Thoughts**: I'm not yet that familiar with github so I had to watch videos about forking and I'm thinking about how to make a login form and how I can use SQL for maintaining a database of records. 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://codepen.io/Roguex/pen/bMzpEe?editors=1010
 
 ### Day 5: 
 **Today's Progress**:
