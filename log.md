@@ -32,10 +32,10 @@
 
 **Link(s) to work**: https://codepen.io/Roguex/pen/bMzpEe?editors=1010
 
-### Day 5: 
-**Today's Progress**:
-**Thoughts**: 
-**Link(s) to work**:
+### Day 5: May 23, 2018 Wednesday 
+**Today's Progress**: I've joined JavaScript30 for today to continue my coding and finished watching a motivational video about self-taught programming. Working on my SQL course and dowloaded  at least 3 lessons from JavaScript30.
+**Thoughts**: Not feeling too well, had to stop coding for 2 days due to graduation of our students at work. 
+**Link(s) to work**: https://www.youtube.com/watch?v=62tsiY5j4_0&feature=youtu.be  
 
 ### Day 6: 
 **Today's Progress**:
