@@ -37,10 +37,10 @@
 **Thoughts**: Not feeling too well, had to stop coding for 2 days due to graduation of our students at work. 
 **Link(s) to work**: https://www.youtube.com/watch?v=62tsiY5j4_0&feature=youtu.be  
 
-### Day 6: 
-**Today's Progress**:
-**Thoughts**: 
-**Link(s) to work**:
+### Day 6: May 24, 2018 Thursday 
+**Today's Progress**: Finished Object Oriented and Functional Programming in Freecodecamp Front end. Moving forward to Algorithm Scripting.
+**Thoughts**: Need to work on retaining the information from previous lesson. 
+**Link(s) to work**: https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges
 
 ### Day 7: 
 **Today's Progress**:
