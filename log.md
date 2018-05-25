@@ -42,9 +42,9 @@
 **Thoughts**: Need to work on retaining the information from previous lesson. 
 **Link(s) to work**: https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges
 
-### Day 7: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 7: May 26, 2018 Saturday
+**Today's Progress**: Working on Advance CSS and SASS a UDEMY Course Online.
+**Thoughts**: Continuing on my Advance CSS course on UDEMY. 
 **Link(s) to work**:
 
 ### Day 8: 
