@@ -47,14 +47,14 @@
 **Thoughts**: I am continuing on my Advance CSS course.
 **Link(s) to work**: https://github.com/rodsafetyofficer/RBSLPortfolioPage
 
-### Day 8: 
-**Today's Progress**:
-**Thoughts**: 
-**Link(s) to work**:
+### Day 8: May 29, 2018
+**Today's Progress**: Tried out CodeAvengers Frenzy game.
+**Thoughts**: Got an idea on how constructor objecs are used in creating games.
+**Link(s) to work**: https://www.codeavengers.com/javascript/105#1.10
 
 ### Day 9: 
-**Today's Progress**:
-**Thoughts**: 
+**Today's Progress**: May 30, 2018
+**Thoughts**: Finally found a way to understand better the CSS Box Model through the lecture Visual Formating model 
 **Link(s) to work**:
 
 ### Day 10: 
