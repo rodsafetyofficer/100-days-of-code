@@ -57,9 +57,9 @@
 **Thoughts**: Finally found a way to understand better the CSS Box Model through the lecture Visual Formating model 
 **Link(s) to work**:
 
-### Day 10: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 10: June 2, 2018
+**Today's Progress**: Learning how to use the canvas element in html5
+**Thoughts**: Had to stop coding for 2 days a lot of work and preparing for the upcoming school year. 
 **Link(s) to work**:
 
 ### Day 11: 
