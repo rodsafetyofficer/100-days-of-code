@@ -62,9 +62,9 @@
 **Thoughts**: Had to stop coding for 2 days a lot of work and preparing for the upcoming school year. 
 **Link(s) to work**:
 
-### Day 11: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 11: June 3, 2018
+**Today's Progress**: Finishing my Game Maker tutorial on how to make a shooting game.
+**Thoughts**: Able to learn about the basics of Drag and Drop feature of Game Maker. Looking forward to creating my own characters for a story line RPG game I'll be making. 
 **Link(s) to work**:
 
 ### Day 12: 
