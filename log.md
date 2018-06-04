@@ -67,9 +67,9 @@
 **Thoughts**: Able to learn about the basics of Drag and Drop feature of Game Maker. Looking forward to creating my own characters for a story line RPG game I'll be making. 
 **Link(s) to work**:
 
-### Day 12: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 12: June 4, 2018
+**Today's Progress**: Able to make a title page for the first shooting game made in GameMaker.
+**Thoughts**: Feeling excited to make my own sprites, characters, rooms, and bring to life a storyline that I want to transform into a game. 
 **Link(s) to work**:
 
 ### Day 13: 
