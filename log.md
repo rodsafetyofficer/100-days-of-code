@@ -72,9 +72,9 @@
 **Thoughts**: Feeling excited to make my own sprites, characters, rooms, and bring to life a storyline that I want to transform into a game. 
 **Link(s) to work**:
 
-### Day 13: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 13: June 6, 2018
+**Today's Progress**: Added spawnrate of enemies in GameMaker shooting game.
+**Thoughts**: Did some debugging of error why the alarm 0 was not working, finally found where the error is from. I'll start improvising in the next levels of this tutorial.
 **Link(s) to work**:
 
 ### Day 14: 
