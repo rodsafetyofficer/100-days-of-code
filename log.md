@@ -77,10 +77,10 @@
 **Thoughts**: Did some debugging of error why the alarm 0 was not working, finally found where the error is from. I'll start improvising in the next levels of this tutorial.
 **Link(s) to work**:
 
-### Day 14: 
-**Today's Progress**:
-**Thoughts**: 
-**Link(s) to work**:
+### Day 14: June 7, 2018
+**Today's Progress**: Completing Responsive Web Design 300 hrs in freecodecamp
+**Thoughts**: Re-starting doing freecodecamp, pretty neat new features and new challenges. 
+**Link(s) to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units
 
 ### Day 15: 
 **Today's Progress**:
