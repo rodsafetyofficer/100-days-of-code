@@ -82,10 +82,10 @@
 **Thoughts**: Re-starting doing freecodecamp, pretty neat new features and new challenges. 
 **Link(s) to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units
 
-### Day 15: 
-**Today's Progress**:
-**Thoughts**: 
-**Link(s) to work**:
+### Day 15: June 9, 2018
+**Today's Progress**: Doing a tutorial with NodeJs to understand how this runtime environment in creating API's and on how I can use it in my projects.
+**Thoughts**: Still a lot to learn, I'm planning to create a learning schedule for JavaScript, C#, GIMP, CSS3, Unity, GameMaker, and NodeJs
+**Link(s) to work**:https://www.youtube.com/watch?v=TlB_eWDSMt4
 
 ### Day 16: 
 **Today's Progress**:
