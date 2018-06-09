@@ -83,7 +83,7 @@
 **Link(s) to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units
 
 ### Day 15: June 9, 2018
-**Today's Progress**: Doing a tutorial with NodeJs to understand how this runtime environment in creating API's and on how I can use it in my projects.
+**Today's Progress**: Doing a tutorial with NodeJs to understand how this runtime environment in creating API's and on how I can use it in my projects. Just learned how to install SASS in my cmd line, able to create myFirst jason package feeling excited and motivated :) 
 **Thoughts**: Still a lot to learn, I'm planning to create a learning schedule for JavaScript, C#, GIMP, CSS3, Unity, GameMaker, and NodeJs
 **Link(s) to work**:https://www.youtube.com/watch?v=TlB_eWDSMt4
 
