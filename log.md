@@ -87,9 +87,9 @@
 **Thoughts**: Still a lot to learn, I'm planning to create a learning schedule for JavaScript, C#, GIMP, CSS3, Unity, GameMaker, and NodeJs
 **Link(s) to work**:https://www.youtube.com/watch?v=TlB_eWDSMt4
 
-### Day 16: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 16: June 10, 2018
+**Today's Progress**: Learned how to use NPM package and compile SCSS in my local cmd prompt. Also was able to apply using the live-server to automatically update the browser through an http call.
+**Thoughts**: Looking forward for the next lessons of Jonas in UDEMY Advance CSS course.
 **Link(s) to work**:
 
 ### Day 17: 
