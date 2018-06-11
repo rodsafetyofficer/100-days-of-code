@@ -92,10 +92,10 @@
 **Thoughts**: Looking forward for the next lessons of Jonas in UDEMY Advance CSS course.
 **Link(s) to work**:
 
-### Day 17: 
-**Today's Progress**:
-**Thoughts**: 
-**Link(s) to work**:
+### Day 17: June 11, 2018
+**Today's Progress**: Learned how to use the 7-1 technique for maintenance of files in SASS and understood better one how to use pullrequest in github
+**Thoughts**: No classes due to bad weather but at least another whole day of opportunity to learn coding.
+**Link(s) to work**:https://github.com/rodsafetyofficer/hello-world
 
 ### Day 18: 
 **Today's Progress**:
