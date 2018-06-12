@@ -97,8 +97,8 @@
 **Thoughts**: No classes due to bad weather but at least another whole day of opportunity to learn coding.
 **Link(s) to work**:https://github.com/rodsafetyofficer/hello-world
 
-### Day 18: 
-**Today's Progress**:
+### Day 18: June 12, 2018
+**Today's Progress**: Learned how to separate utilities for specific header designs in css and make use of webkit-background-clip for applying design with text and making use of transform property.
 **Thoughts**: 
 **Link(s) to work**:
 
