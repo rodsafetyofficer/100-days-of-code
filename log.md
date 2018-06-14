@@ -102,9 +102,9 @@
 **Thoughts**: 
 **Link(s) to work**:
 
-### Day 19: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 19: June 14, 2018
+**Today's Progress**: Learned how to create a card with an ability to flip and use the skew property in CSS.
+**Thoughts**: Having problems on how to include icons through the http://linea.io/ it's not working in my work.
 **Link(s) to work**:
 
 ### Day 20: 
