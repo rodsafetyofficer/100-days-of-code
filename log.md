@@ -107,9 +107,9 @@
 **Thoughts**: Having problems on how to include icons through the http://linea.io/ it's not working in my work.
 **Link(s) to work**:
 
-### Day 20: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 20: June 16, 2018
+**Today's Progress**: Learned how to implement a video background in CSS.
+**Thoughts**: Finally finished the @jonasschmedtman story section for advance css. Just made some personal touch this is a really great course.
 **Link(s) to work**:
 
 ### Day 21: 
