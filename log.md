@@ -112,9 +112,9 @@
 **Thoughts**: Finally finished the @jonasschmedtman story section for advance css. Just made some personal touch this is a really great course.
 **Link(s) to work**:
 
-### Day 21: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 21: June 17, 2018
+**Today's Progress**: Today I learned how to use the checkbox hack in css and applied it in my navigation link.
+**Thoughts**: Continuing my Advance CSS and SASS course. 
 **Link(s) to work**:
 
 ### Day 22: 
