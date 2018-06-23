@@ -117,9 +117,9 @@
 **Thoughts**: Continuing my Advance CSS and SASS course. 
 **Link(s) to work**:
 
-### Day 22: 
-**Today's Progress**:
-**Thoughts**: 
+### Day 22: June 23, 2018
+**Today's Progress**: Applying responsive design to the grid system.
+**Thoughts**: Wasn't able to code for 5 days, still working on my advance CSS course.
 **Link(s) to work**:
 
 
