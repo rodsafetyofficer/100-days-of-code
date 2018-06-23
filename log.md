@@ -119,7 +119,7 @@
 
 ### Day 22: June 23, 2018
 **Today's Progress**: Applying responsive design to the grid system.
-**Thoughts**: Wasn't able to code for 5 days, still working on my advance CSS course.
+**Thoughts**: Wasn't able to code for 5 days, still working on my advance CSS course while flooding of the house due to the river rising.
 **Link(s) to work**:
 
 
