@@ -122,6 +122,13 @@
 **Thoughts**: Wasn't able to code for 5 days, still working on my advance CSS course while flooding of the house due to the river rising.
 **Link(s) to work**:
 
+### Day 23: June 30, 2018
+**Today's Progress**: Applying responsive design and currently working on the different sections of the page. 
+**Thoughts**: Havent been able to code for a week because of a lot of work to do, just did a little coding today and still working on @jonasschmedtman Advance CSS and SASS Course.
+**Link(s) to work**:
+
+
+
 
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
