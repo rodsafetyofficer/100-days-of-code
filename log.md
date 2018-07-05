@@ -127,7 +127,10 @@
 **Thoughts**: Havent been able to code for a week because of a lot of work to do, just did a little coding today and still working on @jonasschmedtman Advance CSS and SASS Course.
 **Link(s) to work**:
 
-
+### Day 24: July 5, 2018
+**Today's Progress**: Able to apply media querry with the card section and form section of my UDEMY course advance CSS and SASS. 
+**Thoughts**: Having trouble managing my time to get to coding during weekdays, too tired from travelling from work and a lot of paper work checking papers.
+**Link(s) to work**:
 
 
 
